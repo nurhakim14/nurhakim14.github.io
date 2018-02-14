@@ -1,0 +1,9 @@
+h1	{color: #ff96c3}
+h2	{color: #96ffc3}
+#nav
+{border: 5px dotted green}
+#nav a{text-decoration: none; color: #ff96c3}
+.penjelasan { 
+	font-family: sans-serif;
+	font-variant: small-caps;
+ }
